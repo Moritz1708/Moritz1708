@@ -27,7 +27,7 @@ var moritz = new Engineer
     Degree    = "B.Sc. Business Information Systems (dual study program)",
 
     Focus     = [".NET", "Azure", "Clean Architecture", "AI Agents"],
-    Currently = "Owning the architecture of a .NET 4.8 → .NET 9 MAUI modernization",
+    Currently = "Owning the architecture of a .NET 4.8 → .NET 10 MAUI modernization",
     Track     = "Applications used daily by 13,000+ financial advisors",
 
     Daily     = ["Claude Code", "GitHub Copilot", "own MCP servers"],
